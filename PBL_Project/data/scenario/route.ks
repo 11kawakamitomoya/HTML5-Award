@@ -9,7 +9,7 @@
 [button graphic="jailbreak.png" storage="first.ks"  target="*first"][r]
 >>>>>>> da0b9cac21b973f11b6cecc6efab0f56884b6ed0
 [locate x=700 y=300]
-[button graphic="ranger.png" storage="first.ks"  target="*first"][r]
+[button graphic="ranger.png" storage="ranger.ks"  target="*ranger"][r]
 [locate x=700 y=500]
 [button graphic="gambler.png" storage="gambler.ks" target="*gambler"][r]
 [s]
